@@ -1,0 +1,1 @@
+Some popular pages are not offering certain functionality because they don't see a value to provide this to end user, or they won't generate money. Hence i made these script that can be run in the console.log and give you back a result which might help you to use better a service.
