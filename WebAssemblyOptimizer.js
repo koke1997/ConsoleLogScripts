@@ -1,5 +1,6 @@
 // 🎯 UNIVERSAL CANVAS->WASM PERFORMANCE INTERCEPTOR
 // Copy-paste this on ANY website to analyze Canvas performance!
+//Just paste it anywhere and interact with the graphics to see real performance analysis!
 
 (function() {
   'use strict';
